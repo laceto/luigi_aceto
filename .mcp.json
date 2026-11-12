@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "adk-docs": {
+      "command": ".venv/Scripts/mcpdoc.exe",
+      "args": [
+        "--urls",
+        "AgentDevelopmentKit:https://google.github.io/adk-docs/llms.txt",
+        "--transport",
+        "stdio"
+      ]
+    }
+  }
+}

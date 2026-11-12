@@ -1,0 +1,5 @@
+google-adk>=2.13.0
+python-dotenv>=1.2.4
+pytest>=9.2.0
+mcpdoc>=0.0.10
+mcp<2  # mcpdoc requires mcp 1.x
